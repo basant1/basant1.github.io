@@ -1,0 +1,68 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 800;
+    font-size: 24pt;
+    color: #252F46;
+    display: block;
+    margin-top: 0px;
+}
+
+.toolbar {
+    background-color: rgb(170, 221, 173);
+}
+
+.self-pic {
+    width:125px;
+    margin-top: 50px;
+}
+
+.intro {
+    margin-top: 83px;
+}
+
+.fw {
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.portfolio {
+    border: 2px solid black;
+}
+
+.project-photos {
+    height: 185px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.github-link {
+    margin-bottom: 30px;
+}
+
+.contact {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.social {
+    font-size: 40px;
+}
